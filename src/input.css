@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* .input{
-    @apply hover:font-bold;
-} */
+.logo-name{
+    @apply font-semibold text-2xl ml-4 ;
+}
 
